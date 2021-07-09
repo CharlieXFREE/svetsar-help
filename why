@@ -3,4 +3,4 @@ _G.fjigfjhgfjgfjgrfdkhgjkfjhfjkgjhkgjhkfgjhljkgkhjgkhgkhjgkhjkgjhhjjjjjjjjjjjjjj
 
 
 
-local encodedString = loadstring(game:HttpGet("https://raw.githubusercontent.com/CharlieXFREE/SWAT/main/YA", true))()
+local encodedString = loadstring(game:HttpGet("https://raw.githubusercontent.com/CharlieXFREE/SWAT/main/YO", true))()
